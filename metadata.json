@@ -1,0 +1,6 @@
+{
+  "name": "Cleromancy: Sacred Cavern Oracle",
+  "description": "แอปพลิเคชันดูดวงเสี่ยงทาย Cleromancy โบราณ ทอยลูกเต๋าพยากรณ์และเหวี่ยงหินสลักอักษรรูนบนแท่นบูชาศักดิ์สิทธิ์ พร้อม AI วิเคราะห์ชะตาเจาะลึก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
